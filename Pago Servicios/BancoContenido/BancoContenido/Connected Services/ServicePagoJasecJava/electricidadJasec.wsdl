@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:tns="http://principal/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp1_2="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" name="electricidadJasec" targetNamespace="http://principal/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="http://localhost:8080/servicejava/electricidadJasec?xsd=1" namespace="http://principal/" />
+    </xsd:schema>
+  </types>
+  <message name="pago">
+    <part name="parameters" element="tns:pago" />
+  </message>
+  <message name="pagoResponse">
+    <part name="parameters" element="tns:pagoResponse" />
+  </message>
+  <message name="hello">
+    <part name="parameters" element="tns:hello" />
+  </message>
+  <message name="helloResponse">
+    <part name="parameters" element="tns:helloResponse" />
+  </message>
+  <message name="consulta">
+    <part name="parameters" element="tns:consulta" />
+  </message>
+  <message name="consultaResponse">
+    <part name="parameters" element="tns:consultaResponse" />
+  </message>
+  <portType name="electricidadJasec">
+    <operation name="pago">
+      <input wsam:Action="http://principal/electricidadJasec/pagoRequest" message="tns:pago" />
+      <output wsam:Action="http://principal/electricidadJasec/pagoResponse" message="tns:pagoResponse" />
+    </operation>
+    <operation name="hello">
+      <input wsam:Action="http://principal/electricidadJasec/helloRequest" message="tns:hello" />
+      <output wsam:Action="http://principal/electricidadJasec/helloResponse" message="tns:helloResponse" />
+    </operation>
+    <operation name="consulta">
+      <input wsam:Action="http://principal/electricidadJasec/consultaRequest" message="tns:consulta" />
+      <output wsam:Action="http://principal/electricidadJasec/consultaResponse" message="tns:consultaResponse" />
+    </operation>
+  </portType>
+  <binding name="electricidadJasecPortBinding" type="tns:electricidadJasec">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="pago">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="hello">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="consulta">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="electricidadJasec">
+    <port name="electricidadJasecPort" binding="tns:electricidadJasecPortBinding">
+      <soap:address location="http://localhost:8080/servicejava/electricidadJasec" />
+    </port>
+  </service>
+</definitions>

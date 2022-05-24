@@ -1,0 +1,51 @@
+use PagoElectricidadMunicipalidad
+
+insert medidor values('4812','3051','jose','jacs4812@gmail.com','861829','cartago')
+insert medidor values('5212','3051','jose','jacs4812@gmail.com','861829','cartago')
+
+
+create PROCEDURE monto 
+    @medidor nvarchar(100) = '' 
+AS   
+select montoPago,fechaVencimiento from facturaCobro where codigoMedidor  = @medidor
+GO 
+
+create PROCEDURE cancelacion 
+    @medidor nvarchar(100) = '' 
+AS   
+delete from facturaCobro where codigoMedidor = @medidor
+
+use PagoElectricidadJasec
+
+insert medidor values('12','3051','jose','jacs4812@gmail.com','861829','cartago')
+insert medidor values('13','3051','jose','jacs4812@gmail.com','861829','cartago')
+
+
+create PROCEDURE monto 
+    @medidor nvarchar(100) = '' 
+AS   
+select montoPago,fechaVencimiento from facturaCobro where codigoMedidor  = @medidor
+GO 
+
+create PROCEDURE cancelacion 
+    @medidor nvarchar(100) = '' 
+AS   
+delete from facturaCobro where codigoMedidor = @medidor
+
+
+use PagoElectricidadIce
+
+insert medidor values('15','3051','jose','jacs4812@gmail.com','861829','cartago')
+insert medidor values('16','3051','jose','jacs4812@gmail.com','861829','cartago')
+
+
+create PROCEDURE monto 
+    @medidor nvarchar(100) = '' 
+AS   
+select montoPago,fechaVencimiento from facturaCobro where codigoMedidor  = @medidor
+GO 
+
+create PROCEDURE cancelacion 
+    @medidor nvarchar(100) = '' 
+AS   
+delete from facturaCobro where codigoMedidor = @medidor

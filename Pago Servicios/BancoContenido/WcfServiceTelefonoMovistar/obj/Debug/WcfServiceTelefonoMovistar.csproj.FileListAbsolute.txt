@@ -1,0 +1,7 @@
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoMovistar\bin\Debug\WcfServiceTelefonoMovistar.dll.config
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoMovistar\bin\Debug\WcfServiceTelefonoMovistar.dll
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoMovistar\bin\Debug\WcfServiceTelefonoMovistar.pdb
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoMovistar\obj\Debug\WcfServiceTelefonoMovistar.csprojAssemblyReference.cache
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoMovistar\obj\Debug\WcfServiceTelefonoMovistar.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoMovistar\obj\Debug\WcfServiceTelefonoMovistar.dll
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoMovistar\obj\Debug\WcfServiceTelefonoMovistar.pdb

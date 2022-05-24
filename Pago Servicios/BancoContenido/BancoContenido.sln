@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoContenido", "BancoContenido\BancoContenido.csproj", "{47BAC6F3-CC7E-46A0-A461-FBFDCDCFF7AD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C147C91B-87D6-44B9-9D58-BFF59BC16125} = {C147C91B-87D6-44B9-9D58-BFF59BC16125}
+		{8BEFAF2C-F96F-4B32-8CC0-9BA9CFA70B5A} = {8BEFAF2C-F96F-4B32-8CC0-9BA9CFA70B5A}
+		{7070F84D-1207-4C84-BA41-BF8E43B6C528} = {7070F84D-1207-4C84-BA41-BF8E43B6C528}
+		{1D230CA8-C21B-4932-8280-E2C4AA5C2186} = {1D230CA8-C21B-4932-8280-E2C4AA5C2186}
+		{FC6634C0-6D39-4A92-A461-8B161ED55BBD} = {FC6634C0-6D39-4A92-A461-8B161ED55BBD}
+		{FE6E4CED-29FB-4344-A9BF-A38802813D94} = {FE6E4CED-29FB-4344-A9BF-A38802813D94}
+		{52C28BFD-42B3-4C31-BBCF-C05F37A7A3C6} = {52C28BFD-42B3-4C31-BBCF-C05F37A7A3C6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceLibrary1", "WcfServiceLibrary1\WcfServiceLibrary1.csproj", "{C147C91B-87D6-44B9-9D58-BFF59BC16125}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceAguaAsada", "WcfServiceAguaAsada\WcfServiceAguaAsada.csproj", "{FC6634C0-6D39-4A92-A461-8B161ED55BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceAguaMunicipalidad", "WcfServiceAguaMunicipalidad\WcfServiceAguaMunicipalidad.csproj", "{8BEFAF2C-F96F-4B32-8CC0-9BA9CFA70B5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceTelefonoKolbi", "WcfServiceTelefonoKolbi\WcfServiceTelefonoKolbi.csproj", "{52C28BFD-42B3-4C31-BBCF-C05F37A7A3C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceTelefonoClaro", "WcfServiceTelefonoClaro\WcfServiceTelefonoClaro.csproj", "{7070F84D-1207-4C84-BA41-BF8E43B6C528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceTelefonoMovistar", "WcfServiceTelefonoMovistar\WcfServiceTelefonoMovistar.csproj", "{FE6E4CED-29FB-4344-A9BF-A38802813D94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceAguaAyA", "WcfServiceAguaAyA\WcfServiceAguaAyA.csproj", "{1D230CA8-C21B-4932-8280-E2C4AA5C2186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47BAC6F3-CC7E-46A0-A461-FBFDCDCFF7AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47BAC6F3-CC7E-46A0-A461-FBFDCDCFF7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47BAC6F3-CC7E-46A0-A461-FBFDCDCFF7AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47BAC6F3-CC7E-46A0-A461-FBFDCDCFF7AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C147C91B-87D6-44B9-9D58-BFF59BC16125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C147C91B-87D6-44B9-9D58-BFF59BC16125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C147C91B-87D6-44B9-9D58-BFF59BC16125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C147C91B-87D6-44B9-9D58-BFF59BC16125}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC6634C0-6D39-4A92-A461-8B161ED55BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6634C0-6D39-4A92-A461-8B161ED55BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6634C0-6D39-4A92-A461-8B161ED55BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6634C0-6D39-4A92-A461-8B161ED55BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BEFAF2C-F96F-4B32-8CC0-9BA9CFA70B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BEFAF2C-F96F-4B32-8CC0-9BA9CFA70B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BEFAF2C-F96F-4B32-8CC0-9BA9CFA70B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BEFAF2C-F96F-4B32-8CC0-9BA9CFA70B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C28BFD-42B3-4C31-BBCF-C05F37A7A3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C28BFD-42B3-4C31-BBCF-C05F37A7A3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C28BFD-42B3-4C31-BBCF-C05F37A7A3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C28BFD-42B3-4C31-BBCF-C05F37A7A3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7070F84D-1207-4C84-BA41-BF8E43B6C528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7070F84D-1207-4C84-BA41-BF8E43B6C528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7070F84D-1207-4C84-BA41-BF8E43B6C528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7070F84D-1207-4C84-BA41-BF8E43B6C528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE6E4CED-29FB-4344-A9BF-A38802813D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6E4CED-29FB-4344-A9BF-A38802813D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6E4CED-29FB-4344-A9BF-A38802813D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6E4CED-29FB-4344-A9BF-A38802813D94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D230CA8-C21B-4932-8280-E2C4AA5C2186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D230CA8-C21B-4932-8280-E2C4AA5C2186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D230CA8-C21B-4932-8280-E2C4AA5C2186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D230CA8-C21B-4932-8280-E2C4AA5C2186}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35AD71EE-C90F-4AFD-BD60-12F64E030594}
+	EndGlobalSection
+EndGlobal

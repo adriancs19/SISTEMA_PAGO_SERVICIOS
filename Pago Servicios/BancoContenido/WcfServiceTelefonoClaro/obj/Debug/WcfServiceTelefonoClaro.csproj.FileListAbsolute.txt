@@ -1,0 +1,13 @@
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoClaro\bin\Debug\WcfServiceTelefonoClaro.dll.config
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoClaro\bin\Debug\WcfServiceTelefonoClaro.dll
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoClaro\bin\Debug\WcfServiceTelefonoClaro.pdb
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoClaro\obj\Debug\WcfServiceTelefonoClaro.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoClaro\obj\Debug\WcfServiceTelefonoClaro.dll
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoClaro\obj\Debug\WcfServiceTelefonoClaro.pdb
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoClaro\bin\Debug\WcfServiceTelefonoClaro.dll.config
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoClaro\bin\Debug\WcfServiceTelefonoClaro.dll
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoClaro\bin\Debug\WcfServiceTelefonoClaro.pdb
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoClaro\obj\Debug\WcfServiceTelefonoClaro.csprojAssemblyReference.cache
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoClaro\obj\Debug\WcfServiceTelefonoClaro.csproj.CoreCompileInputs.cache
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoClaro\obj\Debug\WcfServiceTelefonoClaro.dll
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoClaro\obj\Debug\WcfServiceTelefonoClaro.pdb

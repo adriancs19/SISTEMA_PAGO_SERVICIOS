@@ -1,0 +1,21 @@
+C:\Users\Jose\Desktop\BancoContenido\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\Jose\Desktop\BancoContenido\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\Jose\Desktop\BancoContenido\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\Jose\Desktop\BancoContenido\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojAssemblyReference.cache
+C:\Users\Jose\Desktop\BancoContenido\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\BancoContenido\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\Jose\Desktop\BancoContenido\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojAssemblyReference.cache
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojAssemblyReference.cache
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

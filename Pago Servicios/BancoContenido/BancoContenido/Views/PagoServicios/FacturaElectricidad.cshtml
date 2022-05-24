@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Home</title>
+    <!-- Bootstrap -->
+    <link rel="stylesheet"
+          href="~/css/bootstrap.min.css" />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+<body>
+    <!-- menu CSS -->
+    <header>
+        <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark shadow-sm">
+            <a href="#">
+                <h1 title="A Cloud Application for Programming Quizzes">
+                    Nova Bank
+                </h1>
+            </a>
+            <button class="navbar-toggler collapsed"
+                    type="button"
+                    data-toggle="collapse"
+                    data-target="#navbarCollapse"
+                    aria-controls="navbarCollapse"
+                    aria-expanded="false"
+                    aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse" id="navbarCollapse">
+                <ul class="navbar-nav mr-auto">
+                </ul>
+                <br />
+                <ul class="navbar-nav">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link h4 mr-3 dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Services pay
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="/PagoServicios/PagoElectricidad">Pay Electricity Services</a>
+                            <a class="dropdown-item" href="/PagoServicios/PagoAgua">Pay Water Services</a>
+                            <a class="dropdown-item" href="/PagoServicios/PagoTelefono">Pay Phone Services</a>
+                        </div>
+                    </li>
+
+
+                    <li class="nav-item">
+                        <a class="nav-link h4 mr-3" href="#">opcion</a>
+
+
+
+
+                    <li class="nav-item">
+                        <a class="nav-link h4 mr-3" href="#">opcion</a>
+                    </li>
+
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <!-- menu CSS -->
+    <main>
+        <div id="main-box" class="container">
+            <div class="jumbotron shadow-sm">
+                <form action="/PagoServicios/FacturaElectricidad" method="post">
+                    <h3 class="display-4">Pay for Electricity</h3>
+                    <div class="form-group">
+                        <label for="colFormLabelLg" class="col-sm-2 col-form-label col-form-label-lg">Company</label>
+                        <div class="col-sm-10">
+                            <input type="text" id="disabledTextInput" class=" form-control form-control-range" name="codigo" placeholder=@ViewData["empr"] readonly>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="colFormLabelLg" class="col-sm-2 col-form-label col-form-label-lg">Meter Code</label>
+                        <div class="col-sm-10">
+
+                            <input type="text" id="disabledTextInput" class=" form-control form-control-range" name="codigo" placeholder=@ViewData["cod"] readonly>
+
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="colFormLabelLg" class="col-sm-2 col-form-label col-form-label-lg">Information</label>
+
+                        <div class="col-sm-10">
+
+                            <label for="colFormLabelLg" class=" col-form-label col-form-label-lg">@ViewData["monto"] </label>
+
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="colFormLabelLg" class="col-sm-2 col-form-label col-form-label-lg">Payment Type</label>
+                        <div class="col-sm-10">
+                            <select name="compa" class="form-control form-control-sm">
+                                <option selected>Select Option...</option>
+                                <option>Current Account</option>
+                                <option>Credit Card</option>
+
+                            </select>
+                        </div>
+                        <label for="colFormLabelLg" class=" col-form-label col-form-label-lg">@ViewData["validacion"]</label>
+                    </div>
+                    <label for="colFormLabelLg" class=" col-form-label col-form-label-lg">@ViewData["validacio"]</label>
+                    <div class="col-sm-10">
+                        <button class="btn btn-primary btn" type="submit">     Pay     </button>
+
+                    </div>
+
+                </form>
+
+                
+            </div>
+        </div>
+    </main>
+
+    <!-- Bootstrap Dependencies -->
+    <script src="~/css/js/jquery-3.4.1.slim.min.js"></script>
+    <script src="~/css/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

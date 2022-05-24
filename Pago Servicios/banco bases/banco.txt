@@ -1,0 +1,56 @@
+create database [MBBanco]
+
+USE [MBBanco]
+GO
+/****** Object:  Table [dbo].[Cliente]    Script Date: 17/10/2020 13:41:26 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Cliente](
+	[cliente_id] [int] primary key,
+	[nombre_cliente] [varchar](100) NOT NULL,
+	[cedula_cliente] [varchar](20) NOT NULL,
+)
+CREATE TABLE [dbo].[Cuenta](
+	[cuenta_numero] [varchar](20) primary key,
+	[cliente_id] [int] NOT NULL,
+	[descripcion_cuenta] [varchar](50) NOT NULL,
+	[saldo_cuenta] [numeric](20, 4) NOT NULL,
+	foreign key ([cliente_id]) references Cliente (cliente_id)
+)
+
+CREATE TABLE [dbo].[Linea_credito](
+	[lcredito_numero] [varchar](20) primary key,
+	[descripcion_lcredito] [varchar](50) NOT NULL,
+	[limite_lcredito] [numeric](20, 4) NOT NULL,
+	[dia_corte] [tinyint] NOT NULL,
+	[cliente_id] [int] NULL,
+	foreign key ([cliente_id]) references Cliente ([cliente_id])
+)
+
+CREATE TABLE [dbo].[Tarjeta_credito](
+	[tcredito_numero] [varchar](20) NOT NULL,
+	[descripcion_tcredito] [varchar](50) NOT NULL,
+	[lcredito_numero] [varchar](20) NOT NULL,
+	[activo_tcredito] [char](1) NOT NULL,
+	foreign key ([lcredito_numero]) references [Linea_credito] ([lcredito_numero])
+)
+CREATE TABLE Tarjeta_debito(
+	tarjeta_numero [varchar](20) NOT NULL,
+	descripcion_tarjeta [varchar](50) NOT NULL,
+	cuenta_numero [varchar](20) NOT NULL,
+	activo_tarjeta [char](1) NOT NULL,
+	foreign key (cuenta_numero) references [Cuenta] (cuenta_numero)
+)
+
+CREATE TABLE [dbo].[Transaccion](
+	[transaccion_id] [int] NOT NULL,
+	[fecha_transaccion] [datetime] NOT NULL,
+	[descripcion_transaccion] [varchar](50) NOT NULL,
+	[tipo_transaccion] [varchar](2) NOT NULL,
+	[monto_transaccion] [numeric](20, 4) NOT NULL,
+	[lcreditoorigen_numero] [varchar](20) NULL,
+	[cuentaorigen_numero] [varchar](20) NULL,
+	)
+

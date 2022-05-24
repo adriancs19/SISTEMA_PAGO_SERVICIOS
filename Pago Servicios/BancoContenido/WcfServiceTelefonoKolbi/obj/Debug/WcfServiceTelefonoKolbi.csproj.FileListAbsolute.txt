@@ -1,0 +1,14 @@
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoKolbi\bin\Debug\WcfServiceTelefonoKolbi.dll.config
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoKolbi\bin\Debug\WcfServiceTelefonoKolbi.dll
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoKolbi\bin\Debug\WcfServiceTelefonoKolbi.pdb
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoKolbi\obj\Debug\WcfServiceTelefonoKolbi.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoKolbi\obj\Debug\WcfServiceTelefonoKolbi.dll
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoKolbi\obj\Debug\WcfServiceTelefonoKolbi.pdb
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoKolbi\obj\Debug\WcfServiceTelefonoKolbi.csprojAssemblyReference.cache
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoKolbi\bin\Debug\WcfServiceTelefonoKolbi.dll.config
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoKolbi\bin\Debug\WcfServiceTelefonoKolbi.dll
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoKolbi\bin\Debug\WcfServiceTelefonoKolbi.pdb
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoKolbi\obj\Debug\WcfServiceTelefonoKolbi.csprojAssemblyReference.cache
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoKolbi\obj\Debug\WcfServiceTelefonoKolbi.csproj.CoreCompileInputs.cache
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoKolbi\obj\Debug\WcfServiceTelefonoKolbi.dll
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceTelefonoKolbi\obj\Debug\WcfServiceTelefonoKolbi.pdb

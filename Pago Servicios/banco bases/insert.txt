@@ -1,0 +1,13 @@
+use PagoElectricidadMunicipalidad
+insert facturaCobro values('4812','15000','20201011')
+insert facturaCobro values('5215','15000','20201011')
+go
+
+use PagoElectricidadJasec
+insert facturaCobro values('12','15000','20201011')
+insert facturaCobro values('13','15000','20201011')
+
+go
+use PagoElectricidadIce
+insert facturaCobro values('15','15000','20201011')
+insert facturaCobro values('16','15000','20201011')

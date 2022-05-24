@@ -1,0 +1,7 @@
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaMunicipalidad\bin\Debug\WcfServiceAguaMunicipalidad.dll.config
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaMunicipalidad\bin\Debug\WcfServiceAguaMunicipalidad.dll
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaMunicipalidad\bin\Debug\WcfServiceAguaMunicipalidad.pdb
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaMunicipalidad\obj\Debug\WcfServiceAguaMunicipalidad.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaMunicipalidad\obj\Debug\WcfServiceAguaMunicipalidad.dll
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaMunicipalidad\obj\Debug\WcfServiceAguaMunicipalidad.pdb
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaMunicipalidad\obj\Debug\WcfServiceAguaMunicipalidad.csprojAssemblyReference.cache

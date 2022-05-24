@@ -1,0 +1,12 @@
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAyA\bin\Debug\WcfServiceAguaAyA.dll.config
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAyA\bin\Debug\WcfServiceAguaAyA.dll
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAyA\bin\Debug\WcfServiceAguaAyA.pdb
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAyA\obj\Debug\WcfServiceAguaAyA.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAyA\obj\Debug\WcfServiceAguaAyA.dll
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAyA\obj\Debug\WcfServiceAguaAyA.pdb
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAyA\bin\Debug\WcfServiceAguaAyA.dll.config
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAyA\bin\Debug\WcfServiceAguaAyA.dll
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAyA\bin\Debug\WcfServiceAguaAyA.pdb
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAyA\obj\Debug\WcfServiceAguaAyA.csproj.CoreCompileInputs.cache
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAyA\obj\Debug\WcfServiceAguaAyA.dll
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAyA\obj\Debug\WcfServiceAguaAyA.pdb

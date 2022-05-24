@@ -1,0 +1,14 @@
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAsada\bin\Debug\WcfServiceAguaAsada.dll.config
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAsada\bin\Debug\WcfServiceAguaAsada.dll
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAsada\bin\Debug\WcfServiceAguaAsada.pdb
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAsada\obj\Debug\WcfServiceAguaAsada.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAsada\obj\Debug\WcfServiceAguaAsada.dll
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAsada\obj\Debug\WcfServiceAguaAsada.pdb
+C:\Users\adria\Desktop\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAsada\obj\Debug\WcfServiceAguaAsada.csprojAssemblyReference.cache
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAsada\bin\Debug\WcfServiceAguaAsada.dll.config
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAsada\bin\Debug\WcfServiceAguaAsada.dll
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAsada\bin\Debug\WcfServiceAguaAsada.pdb
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAsada\obj\Debug\WcfServiceAguaAsada.csprojAssemblyReference.cache
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAsada\obj\Debug\WcfServiceAguaAsada.csproj.CoreCompileInputs.cache
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAsada\obj\Debug\WcfServiceAguaAsada.dll
+F:\INFORMACION\ADRIAN DATOS IMPORTANTES\TECNOLOGIAS DE LA INFORMACION\2020\Cuatrimestre 3,2020\ESCRITORIO 4\PROGRA 5\Requerimientos\Requerimiento Servicios\BancoContenido\WcfServiceAguaAsada\obj\Debug\WcfServiceAguaAsada.pdb
